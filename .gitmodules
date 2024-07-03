@@ -1,0 +1,6 @@
+[submodule "indeed-clone-frontend"]
+	path = indeed-clone-frontend
+	url = https://github.com/Hannapham1007/indeed-clone-frontend
+[submodule "indeed-clone-backend"]
+	path = indeed-clone-backend
+	url = https://github.com/Hannapham1007/indeed-clone-backend
